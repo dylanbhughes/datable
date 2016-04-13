@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Data Community DC Founded Datable as a way to provide career services to our members and sponsors. We were already assisting our members with their careers on an informal basis and we decided it was time to turn this assistance into an official part of DC2. Our first event will be held on May 31st, 2016. To find out how you can get involved, please email [Sean Gonzalez](mailto:seang@datacommunitydc.org) or [Dylan Hughes](mailto: dylan@datacommunitydc.org).

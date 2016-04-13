@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datable</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Datable.org is the home of Data Community DC&#39;s Datable Event. Our first event will be held on May 31st. For more information, see the links above.
 </description>
     <link>https://datable.org/</link>
     <atom:link href="https://datable.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2016 17:46:12 -0400</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 17:46:12 -0400</lastBuildDate>
+    <pubDate>Wed, 13 Apr 2016 00:19:31 -0700</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2016 00:19:31 -0700</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -27,7 +27,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 01 Apr 2016 17:24:47 -0400</pubDate>
+        <pubDate>Fri, 01 Apr 2016 14:24:47 -0700</pubDate>
         <link>https://datable.org/jekyll/update/2016/04/01/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">https://datable.org/jekyll/update/2016/04/01/welcome-to-jekyll.html</guid>
         
