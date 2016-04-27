@@ -9,10 +9,8 @@
 title: Datable
 name: Sean Gonzalez
 email: seang@datacommunitydc.org
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. it will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Datable.org is the home of Data Community DC's Datable Event. Our first event will be held on May 31st. For more information, see the links above.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datable.org" # the base hostname & protocol for your site
 twitter_username: datacommunitydc
